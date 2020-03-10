@@ -1,5 +1,5 @@
 def calculate_salary():
-    print('*calculate salary was work*')
+    print('рассчитываю зарплату')
 
 if __name__ == '__main__':
      calculate_salary()
