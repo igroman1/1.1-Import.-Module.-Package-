@@ -1,5 +1,5 @@
 def get_employees():
-    print('*get employees was work*')
+    print('Вывожу данные о сотруднике')
 
 if __name__ == '__main__':
      get_employees()
